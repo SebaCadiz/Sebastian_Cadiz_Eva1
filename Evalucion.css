@@ -26,7 +26,7 @@ hr{
 p{
     text-align: center;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    text-decoration-color: black;
+    font-weight: bold;
 }
 .Popoutput {
     position: fixed;
@@ -56,9 +56,7 @@ p{
     border-radius: 8px;
     text-align: center;
 }
-.buttom{
-    position: absolute;
-    top:none ;
-    left: 50%;
-    transform: translate(-50%, -50%);
+.spa1{
+    color: red;
+    text-decoration: underline;
 }
